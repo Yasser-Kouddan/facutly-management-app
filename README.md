@@ -44,26 +44,6 @@ Faculty Management System is a comprehensive solution designed to streamline uni
 ![Add Student](screenshots/add-student.png)
 *Interface for adding new students*
 
-### Administrative Dashboard
-![Administrative Dashboard](screenshots/admin-dashboard.png)
-*Comprehensive administrative dashboard showing key metrics and quick access to all system functions*
-
-### Student Portal
-![Student Portal](screenshots/student-portal.png)
-*Student interface for viewing courses, grades, and academic progress*
-
-### Faculty Management
-![Faculty Management](screenshots/faculty-management.png)
-*Interface for managing faculty members, their courses, and schedules*
-
-### Academic Management
-![Academic Management](screenshots/academic-management.png)
-*Course registration, scheduling, and academic planning interface*
-
-### Grade Management System
-![Grade Management System](screenshots/grade-management.png)
-*Comprehensive grade entry and management system with analytics*
-
 ## 🚀 Features
 
 - **Microservices Architecture**
