@@ -7,6 +7,63 @@ A modern, microservices-based faculty management system built with Spring Boot a
 ![React](https://img.shields.io/badge/React-18.2.0-blue.svg)
 ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue.svg)
 
+## 📝 About
+
+Faculty Management System is a comprehensive solution designed to streamline university administrative processes. It provides a modern, user-friendly interface for managing students, teachers, courses, and grades. Built with microservices architecture, it ensures scalability and maintainability while offering real-time updates and efficient data management.
+
+## 📸 Screenshots
+
+### Student Management
+![Students List](screenshots/students-list.png)
+*List of all students in the system*
+
+![Student Details](screenshots/student-details.png)
+*Detailed view of a student's information*
+
+![Student Login](screenshots/student-login.png)
+*Student login interface*
+
+### Teacher Management
+![Teachers List](screenshots/teachers-list.png)
+*List of all teachers in the system*
+
+![Teacher Details](screenshots/teacher-details.png)
+*Detailed view of a teacher's information*
+
+![Teacher Login](screenshots/teacher-login.png)
+*Teacher login interface*
+
+### Module Management
+![Modules List](screenshots/modules-list.png)
+*List of all modules/courses in the system*
+
+![Add Module](screenshots/add-module.png)
+*Interface for adding new modules*
+
+### Student Operations
+![Add Student](screenshots/add-student.png)
+*Interface for adding new students*
+
+### Administrative Dashboard
+![Administrative Dashboard](screenshots/admin-dashboard.png)
+*Comprehensive administrative dashboard showing key metrics and quick access to all system functions*
+
+### Student Portal
+![Student Portal](screenshots/student-portal.png)
+*Student interface for viewing courses, grades, and academic progress*
+
+### Faculty Management
+![Faculty Management](screenshots/faculty-management.png)
+*Interface for managing faculty members, their courses, and schedules*
+
+### Academic Management
+![Academic Management](screenshots/academic-management.png)
+*Course registration, scheduling, and academic planning interface*
+
+### Grade Management System
+![Grade Management System](screenshots/grade-management.png)
+*Comprehensive grade entry and management system with analytics*
+
 ## 🚀 Features
 
 - **Microservices Architecture**
